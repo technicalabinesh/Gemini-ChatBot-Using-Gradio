@@ -1,4 +1,4 @@
-# Gemini Chatbot with Gradio
+# Gemini Chatbot with Gradio  
 
 A simple and elegant chatbot interface powered by Google's Gemini AI model using Gradio.
 
