@@ -23,7 +23,7 @@ def chat_with_gemini(message, history, system_prompt, temperature, max_tokens):
         max_tokens: Maximum response length
     
     Returns:
-        Response from Gemini model
+        Response from Gemini model                                   
     """
     try:
         # Configure generation parameters
